@@ -17,7 +17,7 @@ class EWSType_PhoneCallInformationType extends EWSType
      *
      * @since Exchange 2010
      *
-     * @var EWSType_ConnectionFailureCauseType
+     * @var \jamesiarmes\PEWS\Enumeration\ConnectionFailureCauseType
      */
     public $ConnectionFailureCause;
 

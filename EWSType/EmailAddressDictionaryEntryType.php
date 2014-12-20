@@ -27,7 +27,7 @@ class EWSType_EmailAddressDictionaryEntryType extends EWSType
      *
      * @since Exchange 2007
      *
-     * @var EWSType_EmailAddressKeyType
+     * @var \jamesiarmes\PEWS\Enumeration\EmailAddressKeyType
      */
     public $Key;
 

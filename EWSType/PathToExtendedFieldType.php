@@ -21,7 +21,7 @@ class EWSType_PathToExtendedFieldType extends EWSType
      *
      * @since Exchange 2007
      *
-     * @var EWSType_DistinguishedPropertySetIdType
+     * @var \jamesiarmes\PEWS\Enumeration\DistinguishedPropertySetType
      */
     public $DistinguishedPropertySetId;
 

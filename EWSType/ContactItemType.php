@@ -122,7 +122,7 @@ class EWSType_ContactItemType extends EWSType
      *
      * @since Exchange 2007
      *
-     * @var EWSType_ContactSourceType
+     * @var \jamesiarmes\PEWS\Enumeration\ContactSourceType
      */
     public $ContactSource;
 
@@ -274,7 +274,7 @@ class EWSType_ContactItemType extends EWSType
      *
      * @since Exchange 2007
      *
-     * @var EWSType_FileAsMappingType
+     * @var \jamesiarmes\PEWS\Enumeration\FileAsMappingType
      */
     public $FileAsMapping;
 
@@ -333,7 +333,7 @@ class EWSType_ContactItemType extends EWSType
      *
      * @since Exchange 2007
      *
-     * @var EWSType_ImportanceChoicesType
+     * @var \jamesiarmes\PEWS\Enumeration\ImportanceChoicesType
      */
     public $Importance;
 

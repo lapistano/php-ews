@@ -28,7 +28,7 @@ class EWSType_UserOofSettings extends EWSType
      *
      * @since Exchange 2007
      *
-     * @var EWSType_ExternalAudience
+     * @var \jamesiarmes\PEWS\Enumeration\ExternalAudience
      */
     public $ExternalAudience;
 
